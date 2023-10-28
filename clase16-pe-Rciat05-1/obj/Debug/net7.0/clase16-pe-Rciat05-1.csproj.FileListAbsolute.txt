@@ -1,0 +1,15 @@
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\bin\Debug\net7.0\clase16-pe-Rciat05-1.exe
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\bin\Debug\net7.0\clase16-pe-Rciat05-1.deps.json
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\bin\Debug\net7.0\clase16-pe-Rciat05-1.runtimeconfig.json
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\bin\Debug\net7.0\clase16-pe-Rciat05-1.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\bin\Debug\net7.0\clase16-pe-Rciat05-1.pdb
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.csproj.AssemblyReference.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.AssemblyInfoInputs.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.AssemblyInfo.cs
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.csproj.CoreCompileInputs.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\refint\clase16-pe-Rciat05-1.dll
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.pdb
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\clase16-pe-Rciat05-1.genruntimeconfig.cache
+C:\Pictures\Desktop\Escritorio 2023\Ciclo 2-2023\programacion estrucurada\Clases\clase 16\clase16-pe-Rciat05-1\obj\Debug\net7.0\ref\clase16-pe-Rciat05-1.dll
